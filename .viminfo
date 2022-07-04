@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656935845,,"wq"
+|2,0,1656938002,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,35 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/README.md
-|4,48,1,4,1656935845,"~/README.md"
-'1  1  10  ~/README.md
-|4,49,1,10,1656935745,"~/README.md"
+'0  2  9  ~/file1/b.java
+|4,48,2,9,1656938002,"~/file1/b.java"
+'1  1  4  ~/README.md
+|4,49,1,4,1656935845,"~/README.md"
+'2  1  10  ~/README.md
+|4,50,1,10,1656935745,"~/README.md"
 
 # Jumplist (newest first):
+-'  2  9  ~/file1/b.java
+|4,39,2,9,1656938002,"~/file1/b.java"
+-'  1  0  ~/file1/b.java
+|4,39,1,0,1656937991,"~/file1/b.java"
+-'  1  4  ~/README.md
+|4,39,1,4,1656935845,"~/README.md"
 -'  1  4  ~/README.md
 |4,39,1,4,1656935845,"~/README.md"
 -'  1  10  ~/README.md
 |4,39,1,10,1656935745,"~/README.md"
+-'  1  10  ~/README.md
+|4,39,1,10,1656935745,"~/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1/b.java
+	*	1656938000	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
 
 > ~/README.md
 	*	1656935844	0
